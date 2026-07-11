@@ -1,0 +1,4 @@
+error: failed to parse manifest at `/Users/noahsellers/Documents/Code/Projects/OS/Cargo.toml`
+
+Caused by:
+  manifest is missing either a `[package]` or a `[workspace]`
